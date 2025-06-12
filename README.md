@@ -15,7 +15,7 @@ This Power BI dashboard provides a detailed analysis of user engagement across d
 
 ## 🧰 Tools Used
 - Power BI for dashboard creation
-- Excel/CSV for data preparation
+- CSV for data preparation
 - Interactive visuals and slicers for deep dive analysis
 
 ## 🔍 Key Insights
